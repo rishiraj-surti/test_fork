@@ -1,3 +1,6 @@
 A new file for testing squash.
 
 Oh no, there was something wrong. Made another change.
+
+Gossh, now the library is not building.
+There is a little whitespace sitting at the end of some line...
